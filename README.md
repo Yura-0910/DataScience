@@ -1,2 +1,1 @@
-# DataScience
-Анализируем данные
+Notebook.ipynb - тут анализируем давление с помощью Kotlin
